@@ -27,5 +27,5 @@ Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **Re
 
 Vous êtes intéressé? Vous aimeriez discuter d'opportunités professionnelles? N'hésitez pas à me contacter:
 
-[![Email](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=2a8fbd)](mailto:a.vignard@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=2a8fbd)](https://www.linkedin.com/in/andrea-vignard-dev/)
+[![Email](https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.vignard@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-vignard-dev/)
