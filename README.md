@@ -13,11 +13,16 @@ Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **Re
 
 ## 📚 Projets
 
-- **O'Harvest** : Projet de fin de formation en conditions réelles. Utilisation en Front de REACT [Lien vers le repo](https://github.com/NahashCode/Oharvest_front) | [Voir le site en direct - lien avec la base de données non-actif](https://projet-02-o-harvest-front.vercel.app/)
+**O'Harvest**
+- Projet de fin de formation en conditions réelles
+- Rôle de Scrum Master
+- Utilisation en Front de REACT
+- [Lien vers le repo](https://github.com/NahashCode/Oharvest_front)
+- [Voir le site en direct - lien avec la base de données non-actif](https://projet-02-o-harvest-front.vercel.app/)
 
 ## 📬 Me contacter
 
-Si vous êtes intéressé par mon travail et que vous aimeriez discuter des opportunités professionnelles, n'hésitez pas à me contacter:
+Vous êtes intéressé ? Vous aimeriez discuter d'opportunités professionnelles? N'hésitez pas à me contacter:
 
 - [Envoyez-moi un email](mailto:a.vignard@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/andrea-vignard-dev/)
