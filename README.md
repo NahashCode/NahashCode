@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Andréa Vignard
+# Bonjour, je suis Andréa 🌸
 
 ![Banner](https://media.licdn.com/dms/image/D4E16AQH-TaeQYWbVTA/profile-displaybackgroundimage-shrink_350_1400/0/1671825414602?e=1695859200&v=beta&t=Jk_KHJVbWgYXZmTbYO302jfu9dlCJIQrWDwE2tdc2r4)
 
