@@ -8,8 +8,11 @@ Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **Re
 
 - HTML5 ![](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 - CSS3 ![](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+- SASS ![](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 - JavaScript ![](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 - React ![](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+- Node.js ![](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+- Express ![](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 
 ## 📚 Projets
 
@@ -24,5 +27,5 @@ Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **Re
 
 Vous êtes intéressé? Vous aimeriez discuter d'opportunités professionnelles? N'hésitez pas à me contacter:
 
-- [Envoyez-moi un email](mailto:a.vignard@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/andrea-vignard-dev/)
+[![Email](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=2a8fbd)](mailto:a.vignard@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=2a8fbd)](https://www.linkedin.com/in/andrea-vignard-dev/)
