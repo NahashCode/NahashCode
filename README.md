@@ -1,6 +1,6 @@
 # Bonjour, je suis Andréa 🌸
 
-![Banner](https://media.licdn.com/dms/image/D4E16AQH-TaeQYWbVTA/profile-displaybackgroundimage-shrink_350_1400/0/1671825414602?e=1695859200&v=beta&t=Jk_KHJVbWgYXZmTbYO302jfu9dlCJIQrWDwE2tdc2r4)
+![Banner](https://media.licdn.com/dms/image/D4E16AQH-TaeQYWbVTA/profile-displaybackgroundimage-shrink_350_1400/0/1671825416530?e=1715817600&v=beta&t=Keh11dIekAw4BmJ3-rihwBVyULg7hXW5rnegrKYonww)
 
 Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **React**. Formée par l'école O'clock pour le Titre Professionnel de Développement web et web mobile, je suis actuellement en recherche d'emploi. J'ai une préférence pour le développement front-end et je suis passionnée par la création d'interfaces utilisateur intuitives et performantes.
 
@@ -27,4 +27,4 @@ Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **Re
 
 Vous êtes intéressé? Vous aimeriez discuter d'opportunités professionnelles? N'hésitez pas à me contacter:
 
-[![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:a.vignard@gmail.com) &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-vignard-dev/)
+[![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:a.vignard@gmail.com) &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-v-dev/)
