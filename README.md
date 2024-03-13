@@ -2,7 +2,7 @@
 
 ![Banner](https://media.licdn.com/dms/image/D4E16AQH-TaeQYWbVTA/profile-displaybackgroundimage-shrink_350_1400/0/1671825416530?e=1715817600&v=beta&t=Keh11dIekAw4BmJ3-rihwBVyULg7hXW5rnegrKYonww)
 
-Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **React**. Formée par l'école O'clock pour le Titre Professionnel de Développement web et web mobile, je suis actuellement en recherche d'emploi. J'ai une préférence pour le développement front-end et je suis passionnée par la création d'interfaces utilisateur intuitives et performantes.
+Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **React**. Formée par l'école O'clock pour le Titre Professionnel de Développement web et web mobile, je suis actuellement en recherche d'emploi ou d'alternance. J'ai une préférence pour le développement front-end et je suis passionnée par la création d'interfaces utilisateur intuitives et performantes.
 
 ## 🛠 Compétences
 
