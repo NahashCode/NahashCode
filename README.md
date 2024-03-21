@@ -1,4 +1,4 @@
-# Bonjour, je suis Andréa 🌸
+# Bonjour 🌸
 
 ![Banner](https://media.licdn.com/dms/image/D4E16AQH-TaeQYWbVTA/profile-displaybackgroundimage-shrink_350_1400/0/1671825416530?e=1715817600&v=beta&t=Keh11dIekAw4BmJ3-rihwBVyULg7hXW5rnegrKYonww)
 
