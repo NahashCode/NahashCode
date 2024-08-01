@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D4E16AQH-TaeQYWbVTA/profile-displaybackgroundimage-shrink_350_1400/0/1671825416530?e=1722470400&v=beta&t=YQSk1bfJRAZl5E2U1SiRO8u5zdOkOfPqux47qHIcK70)
+
 
 
 # Bonjour 🌸
