@@ -3,7 +3,7 @@
 
 # Bonjour 🌸
 
-Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **React**. Formée par l'école O'clock pour le Titre Professionnel de Développement web et web mobile, je suis actuellement en recherche d'emploi ou d'alternance. J'ai une préférence pour le développement front-end et je suis passionnée par la création d'interfaces utilisateur intuitives et performantes.
+Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **React**. Je suis actuellement en formation afin de devenir Technicienne Supérieur Système et Réseaux, projet me permettant d'avoir un profil professionnel plus attrayant et plus complet. J'ai une préférence pour le développement front-end et je suis passionnée par la création d'interfaces utilisateur intuitives et performantes.
 
 ## 🛠 Compétences
 
@@ -22,7 +22,6 @@ Je suis une développeuse web, spécialisée en **JavaScript Fullstack** et **Re
 - Rôle de Scrum Master
 - Utilisation en Front de REACT
 - [Lien vers le repo](https://github.com/NahashCode/Oharvest_front)
-- [Voir le site en direct](https://projet-02-o-harvest-front.vercel.app/) --> ⚠️ Lien avec la base de données inactif ⚠️
 
 ## 📬 Me contacter
 
